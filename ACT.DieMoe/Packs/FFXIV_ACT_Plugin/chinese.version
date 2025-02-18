@@ -1,4 +1,4 @@
 [version]
-build_version=20241112.001
-display_at=2.7.1.9-CN7.05
-description=国服7.05版本解析插件
+build_version=20250218.001
+display_at=2.7.2.4-CN7.10
+description=国服7.10版本解析插件
